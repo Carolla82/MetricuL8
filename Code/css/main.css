@@ -1,0 +1,78 @@
+#jt {
+	font-family: "Franklin Gothic Medium", serif;
+	background-image: url("../img/OceanGrid.png");
+  	background-repeat: repeat;
+  	color: #0C2E7E;
+}
+
+#addText {
+	text-align: center;	
+}
+
+
+#epNavBar {
+	font-family: "Arial Narrow", sans-serif;
+}
+
+#homeIcon {
+	font-size: 64px;
+}
+
+#availSel option{
+	width:300px;
+}
+
+#enrollSel option{
+	width:300px;
+}
+
+
+.AddressLong {
+	width: 40%;
+}
+
+.bgBody {
+	background-color: #e1fafd;
+}
+
+.ButtonFont {
+	font-size: 32px;
+}
+
+.ButtonText {
+	font-weight: bold;
+}
+
+.error {
+	color: red;
+}
+
+.FloatInput {
+	margin-bottom: 15px;
+}
+
+.ItemName {
+	font-weight: bold;
+}
+
+.ListLabel {
+	font-style: italic;
+	color: #0C2E7E;
+	
+}
+
+.StateShort {
+	width: 60%;
+}
+
+.ZipMedium {
+	width: 60%;
+}
+
+.PhoneLarge {
+	width: 80%;
+}
+
+.PhoneMedium {
+	width: 90%;
+}
